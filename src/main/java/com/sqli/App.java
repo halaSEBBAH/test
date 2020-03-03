@@ -9,7 +9,7 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
-        System.out.println( "trynna 1 2 3 " );
+        System.out.println( "trynna 4 5 6" );
 
     }
 }
